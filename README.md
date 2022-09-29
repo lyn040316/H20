@@ -1,2 +1,2 @@
 # H20
-theme: midnight
+## Two hydrogen atoms (H) and one oxygen atom (O)
