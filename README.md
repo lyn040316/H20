@@ -1,2 +1,2 @@
 # H20
-theme: Midnight
+theme: midnight
