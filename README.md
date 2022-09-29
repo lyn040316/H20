@@ -1,2 +1,4 @@
 # H20
-## Two hydrogen atoms (H) and one oxygen atom (O)
+### **Two** _hydrogen_ atoms (H) and **one** _oxygen_ atom (O)
+
+##Water Potential##
