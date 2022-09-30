@@ -20,4 +20,6 @@
 
 ## Calculating the Percent Change Mass
 - **[(Final Mass-Initial Mass)(100)]/Initial Mass**
+
+
 ![Water](https://images.all-free-download.com/images/graphicwebp/water_natural_water_drop_of_water_213788.webp)
