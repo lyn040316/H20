@@ -10,7 +10,7 @@
 - **Hypotonic**: lower concentration of water in solution than water concentration in a cell (the cell will shrink)
 - **isotonic**: same water concentration between solution and a cell (the size of the cell does not change)
 
-## Water Potential Formula
+### Formula
 - **Water Potential = Pressure Potential + Solute Potential**
   * Solute Potential = -iCRT
   * i: ionization constant (2 for NaCl)
