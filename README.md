@@ -1,6 +1,7 @@
 # H20
 ### **Two** _hydrogen_ atoms (H) and **one** _oxygen_ atom (O)
-![water molecule](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.chemistryworld.com%2Fpodcasts%2Fwater%2F3005993.article&psig=AOvVaw3BlmiCwzMS2e3p1tSXzzxT&ust=1664646904706000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCLDiqZOLvfoCFQAAAAAdAAAAABAc)
+![water molecule](https://www.pngwing.com/en/free-png-slnao)
+
 ## Water Potential
 ### Vocabulary
 - **Osmosis**: the diffusion of water
@@ -10,7 +11,7 @@
 - **isotonic**: same water concentration between solution and a cell (the size of the cell does not change)
 ### Formula
 - **Water Potential = Pressure Potential + Solute Potential**
- * Solute Potential = -iCRT
+  * Solute Potential = -iCRT
   * i: ionization constant (2 for NaCl)
   * C: molar concentration
   * R: pressure constant
