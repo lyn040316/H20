@@ -17,5 +17,5 @@
   * R: pressure constant
   * T: temperature (in degrees K; degrees Celsius+273)
 
-## Calculating the Percent Change Mass
+## alculating the Percent Change Mass
 - **[(Final Mass-Initial Mass)(100)]/Initial Mass**
