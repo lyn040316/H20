@@ -9,7 +9,6 @@
 - **Hypertonic**: higher conceentration of water in solution than water concentration in a cell (the cell will get bigger)
 - **Hypotonic**: lower concentration of water in solution than water concentration in a cell (the cell will shrink)
 - **isotonic**: same water concentration between solution and a cell (the size of the cell does not change)
-
 ### Formula
 - **Water Potential = Pressure Potential + Solute Potential**
   * Solute Potential = -iCRT
