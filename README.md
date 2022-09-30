@@ -1,6 +1,6 @@
 # H20
 ### **Two** _hydrogen_ atoms (H) and **one** _oxygen_ atom (O)
-![water molecule](https://www.pngwing.com/en/free-png-slnao)
+![water molecule](https://upload.wikimedia.org/wikipedia/commons/3/3e/H2O_%28water_molecule%29.jpg)
 
 ## Water Potential
 ### Vocabulary
