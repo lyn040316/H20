@@ -1,5 +1,5 @@
 # H20
-### **Two** _hydrogen_ atoms (H) and **one** _oxygen_ atom (O)
+### **Two** hydrogen atoms (H) and **one** oxygen atom (O)
 ![water molecule](https://upload.wikimedia.org/wikipedia/commons/3/3e/H2O_%28water_molecule%29.jpg)
 
 ## Water Potential
@@ -8,7 +8,7 @@
   * Diffusion: the movement of a substance from an area of _high_ concentration to an area of _lower_ concentration
 - **Hypertonic**: _higher_ concentration of water in solution than water concentration in a cell (the cell will get _bigger_)
 - **Hypotonic**: _lower_ concentration of water in solution than water concentration in a cell (the cell will _shrink_)
-- **Isotonic**: _same_ water concentration between solution and a cell (the size of the cell does not change)
+- **Isotonic**: _same_ water concentration between solution and a cell (the size of the cell _does not change_)
 
 ### Formula
 - **Water Potential = Pressure Potential + Solute Potential**
