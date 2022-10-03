@@ -5,10 +5,10 @@
 ## Water Potential
 ### Vocabulary
 - **Osmosis**: the diffusion of water
-  * Diffusion: the movement of a substance from an area of high concentration to an area of lower concentration
-- **Hypertonic**: higher conceentration of water in solution than water concentration in a cell (the cell will get bigger)
-- **Hypotonic**: lower concentration of water in solution than water concentration in a cell (the cell will shrink)
-- **Isotonic**: same water concentration between solution and a cell (the size of the cell does not change)
+  * Diffusion: the movement of a substance from an area of _high_ concentration to an area of _lower_ concentration
+- **Hypertonic**: _higher_ concentration of water in solution than water concentration in a cell (the cell will get _bigger_)
+- **Hypotonic**: _lower_ concentration of water in solution than water concentration in a cell (the cell will _shrink_)
+- **Isotonic**: _same_ water concentration between solution and a cell (the size of the cell does not change)
 
 ### Formula
 - **Water Potential = Pressure Potential + Solute Potential**
